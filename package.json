@@ -1,0 +1,19 @@
+{
+  "name": "AssemScript.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pmh-only/AssemScript.js.git",
+  "author": "Park Min Hyeok <pmhstudio.pmh@gmail.com>",
+  "scripts": {
+    "build": "babel src -d lib",
+    "watch": "babel --watch src -d lib"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.13.16"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.13.15"
+  }
+}
