@@ -24,9 +24,8 @@ VAL 101 // set calling id to 101(writeStr)
 CAL // print string
 ```
 
-```
-Hello, World!
-```
+<img src="docs/Animation.gif"/>\
+[여기](https://static.pmh.codes/AssemScript.js/)에서 해보실 수 있습니다
 
 ## 개요
 Assembly의 문법과 Brainfuck의 구동 방식을 혼합한 간편 스크립트 언어입니다.
